@@ -1,0 +1,15 @@
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\Service.dll.config
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\Service.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\Service.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\EntityFramework.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\Model.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\Model.pdb
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\Model.dll.config
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\EntityFramework.xml
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\obj\Debug\Service.dll
+C:\Users\BHAVYA TYAGI\source\repos\HelpDeskManagement\Service\obj\Debug\Service.pdb
